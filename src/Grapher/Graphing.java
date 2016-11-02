@@ -112,7 +112,7 @@ public class Graphing extends Applet implements KeyListener {
 	/**
 	 * Paint method for applet.
 	 * 
-	 * @param g
+	 * @param
 	 *            the Graphics object for this applet
 	 */
 	public void paint(Graphics gr) {

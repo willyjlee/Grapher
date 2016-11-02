@@ -33,7 +33,7 @@ public class RootFinder {
 	private int Option;
 	private double minxongraph, maxxongraph, inc, a, b, c, d;
 	private double minx, maxx, miny, maxy;
-	private static final double EPSILON = 0.00000000000001;
+	private static final double EPSILON = 0.000000001;
 	private double func, nextf;
 	/** x-val separated by inc */
 	ArrayList<Double> roots;
